@@ -1,3 +1,23 @@
+### Тестирование интернет ресурса
+<hr>
+<p>Имеется <a href="https://demo.guru99.com/telecom/index.html"> интернет ресурс </a> с <a href="https://docs.google.com/spreadsheets/d/17pDHGwkAFIrDY8UlfVdkKrw2lv6KFSYgS0cryyty1Fk/edit#gid=0">требованиями </a>
+<p><strong> Задание  </strong></p> 
+<ol>
+ <li>Составить чек-лист на главную страницу</li>
+ <li>Составить тест кейсы (15-20) на функциональность Add Customer.</li>
+<li>Согласно чек-листу и тест-кейсам, созданными вами в предыдущем задании, проведите тестирование главной страницы и страницы Add Customer.</li>
+<li>Все найденный баги оформите надлежащим способом в виде отчетов о дефекте.</li>
+</ol>
+<hr>
+<p><strong> Решение  </strong></p> 
+<ul>
+<li> <a href="https://github.com/Dzianis-Brahinets/Web-Testing/blob/87571263bf2151c38beb730db740659241936794/Testing%20Documentation-Check-list-%20GURU99TELECOM%20.xlsx">Чек-лист</a></li>
+<li> <a href="https://github.com/Dzianis-Brahinets/Web-Testing/blob/87571263bf2151c38beb730db740659241936794/Testing%20Documentation%20-%20Test%20Cases.pdf">Тест-кейсы</a></li>
+<li> <a href="https://github.com/Dzianis-Brahinets/Web-Testing/blob/87571263bf2151c38beb730db740659241936794/Testing%20Documentation%20-Bag%20report.pdf">Баг-репорты</a></li>
+</ul>
+<hr>
+<hr>
+
 ### Тестирование интернет магазина
 <hr>
 <p>Имеется <a href="http://demowebshop.tricentis.com/"> интернет магазин </a> с основными функциями: 
@@ -32,4 +52,4 @@
 <li> <a href="https://github.com/Dzianis-Brahinets/Web-Testing/blob/54a31d02501c1104f4f5191caab7cec24092f1ce/Web%20App%20Testing%20-Test%20plan-Check-list%20.xlsx">Тест-план и Чек-лист</a></li>
 <li> <a href="https://github.com/Dzianis-Brahinets/Web-Testing/blob/54a31d02501c1104f4f5191caab7cec24092f1ce/Web%20App%20Testing%20-%20Test%20Cases.pdf">Тест-кейсы</a></li>
 <li> <a href="https://github.com/Dzianis-Brahinets/Web-Testing/blob/54a31d02501c1104f4f5191caab7cec24092f1ce/Web%20App%20Testing-%20Bag%20reports%20.pdf">Баг-репорты</a></li>
-</ol>
+</ul>
