@@ -1,6 +1,6 @@
 ### Тестирование интернет магазина
 ---
-<p>Имеется <a href="https://drive.google.com/drive/u/3/folders/1MC0AttnmlAmugifFlX3hG6pssYZDqpPB"> интернет магазин </a> с основными функциями: 
+<p>Имеется <a href="http://demowebshop.tricentis.com/"> интернет магазин </a> с основными функциями: 
 <ol> <li>Регистрация</li>
 <li>Авторизация</li>
 <li>Сброс пароля</li>
