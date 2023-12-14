@@ -14,7 +14,7 @@
 <li> <a href="https://github.com/Dzianis-Brahinets/Web-Testing/blob/87571263bf2151c38beb730db740659241936794/Testing%20Documentation-Check-list-%20GURU99TELECOM%20.xlsx">Чек-лист</a></li>
 <li> <a href="https://github.com/Dzianis-Brahinets/Web-Testing/blob/87571263bf2151c38beb730db740659241936794/Testing%20Documentation%20-%20Test%20Cases.pdf">Тест-кейсы</a></li>
 <li> <a href="https://github.com/Dzianis-Brahinets/Web-Testing/blob/87571263bf2151c38beb730db740659241936794/Testing%20Documentation%20-Bag%20report.pdf">Баг-репорты</a></li>
-</ul>
+</ul></p>
 <hr>
 <hr>
 
